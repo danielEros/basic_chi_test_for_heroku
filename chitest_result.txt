@@ -1,0 +1,3 @@
+The p-values for the chi-square statistic are:
+ATP, 0.439666352084
+Covalent, 0.866596491572
